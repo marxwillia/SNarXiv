@@ -2,7 +2,7 @@
 Post Title
 **********
 
-* Authors:
+* Authors
   * Marc Williamson (NYU)
   * Maryam Modjaz (NYU)
   * Federica Bianco (University of Delaware)
