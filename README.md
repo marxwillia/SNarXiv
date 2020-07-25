@@ -10,6 +10,13 @@ members of our community.
 2. Clone your forked repo: `git clone git@github.com:your-user-name/SNarXiv.git`
 3. Add upstream: `git remote add upstream git@github.com:marxwillia/SNarXiv.git`
 
+## How to use this repo:
+
+The arXiv summaries are stored in the `SNarXiv/posts/` directory. Simply 
+navigate to the directory and you can see all the posts, and GitHub
+tracks which ones are most recent. Click on a post to have the rst file
+loaded and learn about new supernova research!
+
 
 ## How to contribute:
 
