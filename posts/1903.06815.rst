@@ -3,9 +3,9 @@ Post Title
 **********
 
 * Authors:
-  - Marc Williamson (NYU)
-  - Maryam Modjaz (NYU)
-  - Federica Bianco (University of Delaware)
+  * Marc Williamson (NYU)
+  * Maryam Modjaz (NYU)
+  * Federica Bianco (University of Delaware)
 
 * Paper Title: Optimal Classification and Outlier Detection
   for Stripped-Envelope Core-Collapse Supernovae
