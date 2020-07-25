@@ -2,13 +2,13 @@
 Post Title
 **********
 
-**Authors: **
+* Authors:
 
-**Paper Title: **
+* Paper Title:
 
-**Date Posted on arXiv (MM-DD-YYYY): **
+* Date Posted on arXiv (MM-DD-YYYY):
 
-**arXiv link: **
+* arXiv link:
 
 ****************
 Science Question
