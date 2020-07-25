@@ -1,0 +1,76 @@
+**********
+Post Title
+**********
+
+* Authors:
+  - Marc Williamson (NYU)
+  - Maryam Modjaz (NYU)
+  - Federica Bianco (University of Delaware)
+
+* Paper Title: Optimal Classification and Outlier Detection
+for Stripped-Envelope Core-Collapse Supernovae
+
+* Date Posted on arXiv (MM-DD-YYYY): 03-15-2019
+
+* arXiv link: https://arxiv.org/abs/1903.06815
+
+****************
+Science Question
+****************
+
+What are the science questions addressed by this paper?
+
+* Can we construct a physically interpretable classifier for
+stripped-envelope supernovae that encodes the heuristics used
+by astrophysicists for classification but that quantifies the
+continuous nature of SN ejecta abundances and stripping mechanisms?
+
+* When is the best time relative to date of maximum to distinguish
+between stripped-envelope spectral types?
+
+**********
+Motivation
+**********
+
+Why are the science questions posed in the paper important?
+
+* The stripped-envelope spectral types are determined based on the
+presence or lack thereof of Hydrogen and Helium absorption features.
+Since stripping mechanisms are continuous, the classification scheme
+for SESN types should reflect this continuity in order to quantitatively
+understand "transition type" supernovae.
+
+* Current classification schemes use basic statistics like cross correlation
+which do not yield information on the relationship between classes of SESNe.
+
+* With the advent of large observing campaigns like ZTF and collaborations like
+GSP, there will be too many objects to follow up with spectra, thus it is
+vital that we know the best time for spectral observation in order to extract
+the most information.
+
+*******
+Methods
+*******
+
+What analysis methods do the authors employ to address the science questions?
+
+* Principal Component Analysis (PCA) on a sample of stripped-envelope
+optical spectra.
+
+* Support Vector Machine for classification.
+
+************
+Main Results
+************
+
+What are the most important take aways from this paper?
+
+* The authors show that their classifier reproduces the common stripped-envelope
+spectral subtypes, while also allowing continuous classification between the types.
+
+* This method provides a new way of understanding "transition" supernovae like SN2008D.
+
+* The authors show that the stripped-envelope subtypes are best distinguished from
+each other about 2 weeks after maximum light when non-thermal effects have excited
+Helium.
+
