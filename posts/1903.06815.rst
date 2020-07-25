@@ -3,6 +3,7 @@ Post Title
 **********
 
 * Authors
+
   * Marc Williamson (NYU)
 
   * Maryam Modjaz (NYU)
