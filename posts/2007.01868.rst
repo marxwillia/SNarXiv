@@ -1,6 +1,6 @@
-**********
-Post Title
-**********
+*************************************************************
+Optimal Classification of Stripped Envelope Supernova Spectra
+*************************************************************
 
 * Authors:
 
