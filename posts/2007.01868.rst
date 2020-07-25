@@ -1,0 +1,71 @@
+**********
+Post Title
+**********
+
+* Authors:
+
+  * Wolfgang Kerzendorf
+  * Christian Vogl
+  * Johannes Buchner
+  * Gabriella Contardo
+  * Marc Williamson
+  * Patrick van der Smagt
+
+* Paper Title: Dalek -- a deep-learning emulator for TARDIS
+
+* Date Posted on arXiv (MM-DD-YYYY): 07-03-2020
+
+* arXiv link: https://arxiv.org/abs/2007.01868
+
+****************
+Science Question
+****************
+
+What are the science questions addressed by this paper?
+
+* Can a neural network based framework emulate a traditional
+  Monte Carlo based radiative transfer code TARDIS to percent
+  level accuracy?
+
+**********
+Motivation
+**********
+
+Why are the science questions posed in the paper important?
+
+* Radiative transfer simulations of synthetic supernova spectra are
+  extremely computationally expensive. Thus, supernova modelling has
+  been restricted to subjectively creating models by experts without
+  the use of automated fitting to observed spectra. If a neural network
+  emulator can be trained to mimic radiation transfer codes such as
+  TARDIS, then a wide variety of analysis tools become available, like
+  bayesian inference on model parameters that would be computationally
+  impossible otherwise.
+
+*******
+Methods
+*******
+
+What analysis methods do the authors employ to address the science questions?
+
+* Multiple neural network architectures with different hyperparameter choices
+  are trained on TARDIS simulations.
+
+* Ensemble of best neural networks used for final comparisons to test synthetic
+  spectra.
+
+************
+Main Results
+************
+
+What are the most important take aways from this paper?
+
+* The emulator produced by the authors predicts spectra from input model
+  parameters to percent level accuracy when tested against a test set of
+  TARDIS spectra.
+
+* The emulator produces emulated spectra thousands of times faster
+  than the radiation transfer code TARDIS, which allows full parameter
+  space exploration and bayesian analysis to understand input parameter
+  uncertainties and degeneracies.
+
